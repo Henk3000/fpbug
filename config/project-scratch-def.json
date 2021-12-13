@@ -1,0 +1,38 @@
+{
+	"orgName": "wow-fpbug",
+	"edition": "Enterprise",
+	"hasSampleData": true,
+	"country": "NL",
+	"language": "en_US",
+	"features": ["Sites", "Communities"],
+	"settings": {
+		"nameSettings": {
+			"enableMiddleName": true
+		},
+		"opportunitySettings": { 
+			"enableOpportunityTeam": true 
+		},
+		"quoteSettings": {
+			"enableQuote": true
+		},
+		"orderSettings": {
+			"enableOrders": true
+		},
+		"languageSettings": {
+			"enableTranslationWorkbench": true,
+			"enablePlatformLanguages" : true
+		},
+		"lightningExperienceSettings": {
+			"enableS1DesktopEnabled": true
+		},
+		"mobileSettings": {
+			"enableS1EncryptedStoragePref2": false
+		},
+		"enhancedNotesSettings": {
+			"enableEnhancedNotes": true
+		} ,
+		"communitiesSettings": {
+			"enableNetworksEnabled": true
+		}
+	}
+}

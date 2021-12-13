@@ -1,0 +1,3 @@
+# Ignore file to keep this folder in bb if empty
+
+!.gitignore
